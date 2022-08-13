@@ -1,0 +1,17 @@
+{
+  "name": "launch-countdown-timer-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "compile:sass": "node-sass src/sass/main.scss src/css/style.css -w"
+  },
+  "author": "Wongel",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "node-sass": "^7.0.1"
+  }
+}

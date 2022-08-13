@@ -1,0 +1,29 @@
+// - Grayish blue: hsl(237, 18%, 59%)
+// - Soft red: hsl(345, 95%, 68%)
+
+// ### Neutral
+
+// - White: hsl(0, 0%, 100%)
+// - Dark desaturated blue: hsl(236, 21%, 26%)
+// - Very dark blue: hsl(235, 16%, 14%)
+// - Very dark (mostly black) blue: hsl(234, 17%, 12%)
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&display=swap");
+
+$primary-color: hsl(345, 95%, 68%);
+$secondary-color: hsl(237, 18%, 59%);
+$white-color: hsl(0, 0%, 100%);
+$secondary-dark-1: hsl(236, 21%, 26%);
+$secondary-dark-2: hsl(235, 16%, 14%);
+$secondary-dark-3: hsl(234, 17%, 12%);
+
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.8rem;
+  font-family: "Red Hat Text";
+}
+.container {
+  margin: 20rem auto;
+  max-width: 90rem;
+}

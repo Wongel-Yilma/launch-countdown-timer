@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["src/sass/main.scss","src/sass/_components.scss"],"sourcesContent":["@import \"./base\";\r\n@import \"./components\";\r\n@import \"./layout\";\r\n",null],"names":[],"version":3,"file":"index.f7626f62.css.map","sourceRoot":"/__parcel_source_root/"}

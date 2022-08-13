@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&display=swap");
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 1.8rem;
+  font-family: "Red Hat Text"; }
+
+.container {
+  margin: 20rem auto;
+  max-width: 90rem; }
+
+.footer {
+  display: flex;
+  gap: 5rem; }
+
+.timer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); }
