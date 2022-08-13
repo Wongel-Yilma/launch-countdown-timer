@@ -9,6 +9,9 @@
 html {
   font-size: 62.5%; }
 
+main {
+  width: 144rem; }
+
 body {
   height: 100%;
   font-size: 1.8rem;
@@ -47,7 +50,7 @@ body {
   column-gap: 4rem; }
   .timer__container {
     margin: 20rem auto 40rem;
-    max-width: 90rem;
+    max-width: 120rem;
     display: grid;
     justify-content: center; }
   .timer__column {
@@ -94,4 +97,5 @@ body {
     font-size: 2rem; }
 
 .container {
-  width: 100%; }
+  margin: auto;
+  width: 120rem; }
